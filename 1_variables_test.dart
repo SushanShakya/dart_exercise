@@ -17,6 +17,7 @@ class VariablesTest {
       print("Expected Output : ${e[2]}");
       print("Actual Output : ${res}");
       print("${fnName}() is incorrect.");
+      return;
     }
     print("${fnName}() is correct.");
   }
