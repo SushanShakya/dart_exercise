@@ -1,3 +1,5 @@
+import '1_variables_test.dart';
+
 class Variables {
   int add(int a, int b) {
     // Write Code here
@@ -14,4 +16,9 @@ class Variables {
   int subtractAndDivide(int a, int b) {
     // Write Code Here
   }
+}
+
+void main() {
+  final test = VariablesTest(solution: Variables());
+  test.runAll();
 }
