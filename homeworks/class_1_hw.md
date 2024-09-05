@@ -76,6 +76,10 @@
 
 > You have a report of a patient. His white blood cells count is 200, the required count is 400. Write a program to check how much white blood cells is he missing.
 
+> You are writing a code for a compute game. Imagine you are in a 2 player game where the 1st and 2nd player are partners. Let each of their scores be 100 and 200. Write a program to find the total score they achieved.
+
+> You are writing code for a grocery shop. Write a program that calculates the grand total of the items if the items in a cart are 1 potato chips (Rs. 100), 2 ice-cream (Rs. 60), 1 can of beer (Rs. 360). The discount given is Rs. 20 and the tax is 13% after discount.
+
 ## Hard Problem
 
 > Imagine you have a shop. A customer buys items for 55.55 rupees. He gives you a note of 100 rupees. Write a program to calculate the change amount to return to the customer.
