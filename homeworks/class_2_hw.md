@@ -28,72 +28,73 @@
 
 > Program to check if a number is a multiple of another numbers.
 
-> Let's say you're writing a small piece of Facebook.
-> Your task is to write a logic to check if some content should be visible
-> on a person's facebook or not.
-> It should be visible if the person is the friend of the post creator.
-> Assume you'll be given a variable saying whether the creator is a friend or not.
+> Let's say you're writing a small piece of Facebook.<br>
+> Your task is to write a logic to check if some content should be visible<br>
+> on a person's facebook or not.<br>
+> It should be visible if the person is the friend of the post creator.<br>
+> Assume you'll be given a variable saying whether the creator is a friend or not.<br>
 > If creator is a friend print "SHOW CONTENT" otherwise print "SKIP"
 
-> Let's say you have to write a small piece of Youtube.
-> Your task is to write the logic to see if the video is appropriate for children.
-> If the video is flagged as above 18 then it's not appropriate so print "NOT APPROPRIATE"
-> Otherwise print "APPROPRIATE".
+> Let's say you have to write a small piece of Youtube.<br>
+> Your task is to write the logic to see if the video is appropriate for children.<br>
+> If the video is flagged as above 18 then it's not appropriate so print "NOT APPROPRIATE"<br>
+> Otherwise print "APPROPRIATE".<br>
 > Assume that you'll be given a variable whether a video is appropriate or not.
 
-> You're writing a small logic to shopping cart. You know the remaining number of apples (Let's say 10)
-> and a person wants to buy 11 apples. This is not allowed. Write program to do the check and print
-> "Not Allowed" if a person wants to buy more apples than is available in the inventory otherwise
-> pring "Allowed"
+> You're writing a small logic to shopping cart. You know the remaining number of apples (Let's say 10)<br>
+> and a person wants to buy 11 apples. This is not allowed. Write program to do the check and print<br>
+> "Not Allowed" if a person wants to buy more apples than is available in the inventory otherwise<br>
+> pring "Allowed"<br>
 
-> You're writing a 2v2 game. Your task is to check whose HP is greater among the 2 players competing.
-> Assume that first player's health is 100 and second player's health is 120. The one with the larger health is the winner.
+> You're writing a 2v2 game. Your task is to check whose HP is greater among the 2 players competing.<br>
+> Assume that first player's health is 100 and second player's health is 120. The one with the larger health is the winner.<br>
 
-> A person passes his exams if his score is greater than 32. Program to check whether a student passes his exam or not.
+> A person passes his exams if his score is greater than 32.<br>
+> Program to check whether a student passes his exam or not.
 
-> A person is said to be young if he is in his 20s, mid-age if he is in his 30s and old if he is in his 40s.
-> Write a program to check if the a person is young, mid-age or old. If he is mid age print "SEXY" otherwise
-> print "SEUCY".
+> A person is said to be young if he is in his 20s, mid-age if he is in his 30s and old if he is in his 40s.<br>
+> Write a program to check if the a person is young, mid-age or old. If he is mid age print "SEXY" otherwise<br>
+> print "SEUCY".<br>
 
-> There are 3 types of people in the world.
+> There are 3 types of people in the world.<br>
 >
-> 1. People without money
-> 2. People with some money
-> 3. Rich People
+> 1. People without money<br>
+> 2. People with some money<br>
+> 3. Rich People<br>
 >
-> You will categorize then using their score.
+> You will categorize then using their score.<br>
 >
-> 1. People without money (score < 100)
-> 2. People with some money (score >= 100 and score <200)
-> 3. Rich People (score > 200)
+> 1. People without money (score < 100)<br>
+> 2. People with some money (score >= 100 and score <200)<br>
+> 3. Rich People (score > 200)<br>
 >
-> Write a program to do this.
+> Write a program to do this.<br>
 
-> Students are arranged in a format such that odd numbers are girls and even numbers are boys.
-> Write a program to check whether a given number is a boy or a girl. If it is a boy you should print "Boy"
+> Students are arranged in a format such that odd numbers are girls and even numbers are boys.<br>
+> Write a program to check whether a given number is a boy or a girl. If it is a boy you should print "Boy"<br>
 > otherwise print "Girl".
 
-> A Player can proceed to the next level if he has a score greather than 800.
+> A Player can proceed to the next level if he has a score greather than 800.<br>
 > Write a program to check if a player can proceed to the next level.
 
-> Let's say you're programming a small part of Mobile Legends.
-> Your game divides a player as: "Warrior", "Elite", "Grandmaster", "Epic", "Legend", "Mythic"
-> based on number of stars you've obtained.
-> Write logic given number of stars to check which group the player belongs to.
-> Warrior : At least 10 stars
-> Elite : At least 20 stars
-> Grandmaster : At least 30 stars
-> Epic : At least 40 stars
-> Legend : At least 50 stars
-> Mythic : More than 60 stars
+> Let's say you're programming a small part of Mobile Legends.<br>
+> Your game divides a player as: "Warrior", "Elite", "Grandmaster", "Epic", "Legend", "Mythic"<br>
+> based on number of stars you've obtained.<br>
+> Write logic given number of stars to check which group the player belongs to.<br>
+> Warrior : At least 10 stars<br>
+> Elite : At least 20 stars<br>
+> Grandmaster : At least 30 stars<br>
+> Epic : At least 40 stars<br>
+> Legend : At least 50 stars<br>
+> Mythic : More than 60 stars<br>
 
-> Assume that you're writing code for self driving train.
-> Your task is to write a small logic for when the train comes across a 2 way track.
-> Your train is supposed to reach Guwahati.
-> Left track takes you to Amritsar.
-> Right track takes you to Guwahati.
-> Create the variables and check which track you should go to.
+> Assume that you're writing code for self driving train.<br>
+> Your task is to write a small logic for when the train comes across a 2 way track.<br>
+> Your train is supposed to reach Guwahati.<br>
+> Left track takes you to Amritsar.<br>
+> Right track takes you to Guwahati.<br>
+> Create the variables and check which track you should go to.<br>
 
-> Program to print "Fizz" if a number is divisible by 3,
-> print "Buzz" if a number is divisible by 5
-> and print "FizzBuzz" if a number is divisible by both 3 and 5.
+> Program to print "Fizz" if a number is divisible by 3,<br>
+> print "Buzz" if a number is divisible by 5<br>
+> and print "FizzBuzz" if a number is divisible by both 3 and 5.<br>
