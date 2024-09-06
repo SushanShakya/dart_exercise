@@ -55,14 +55,13 @@
 1. > A person is said to be young if he is in his 20s, mid-age if he is in his 30s and old if he is in his 40s.<br>
    > Write a program to check if the a person is young, mid-age or old. If he is mid age print "SEXY" otherwise<br>
    > print "SEUCY".<br>
-   >
-   > There are 3 types of people in the world.<br>
+1. > There are 3 types of people in the world.<br>
    >
    > 1. People without money<br>
    > 2. People with some money<br>
    > 3. Rich People<br>
    >
-   > You will categorize then using their score.<br>
+   > You will categorize them using their score.<br>
    >
    > 1. People without money (score < 100)<br>
    > 2. People with some money (score >= 100 and score <200)<br>
@@ -81,6 +80,7 @@
    > Your game divides a player as: "Warrior", "Elite", "Grandmaster", "Epic", "Legend", "Mythic"<br>
    > based on number of stars you've obtained.<br>
    > Write logic given number of stars to check which group the player belongs to.<br>
+   >
    > Warrior : At least 10 stars<br>
    > Elite : At least 20 stars<br>
    > Grandmaster : At least 30 stars<br>
@@ -98,3 +98,73 @@
 1. > Program to print "Fizz" if a number is divisible by 3,<br>
    > print "Buzz" if a number is divisible by 5<br>
    > and print "FizzBuzz" if a number is divisible by both 3 and 5.<br>
+
+1. > A circle is categoried with it's diameter<br>
+   > The categories are:
+   >
+   > 1. Big Circle (Radius bigger than 24)
+   > 1. Mid Circle (Radius upto 24)
+   > 1. Small Circle (Radius smaller than 12)
+   >
+   > Write a program to categorize the circle given it's diameter.
+
+1. > Imagine you are programming a 2v2 video game.<br>
+   > Write a program to calculate the total score of each team given the individual<br>
+   > scores of player 1,2,3,4. Assume 1 & 2 are a team and 3 & 4 are a team.<br>
+   > After calculating the scores check which team wins. The team with higher<br>
+   > score wins.
+
+1. > Let's say you're writing the program for lock screen of windows <br>
+   > which requires a password to login <br>
+   > Given the password entered by the user and the actual password for login <br>
+   > Write a program to check if the user is allowed to enter into the system. <br>
+   > Print "Access Granted" if allowed into the system otherwise print "Access Denied"<br>
+   >
+   > Hint : He is allowed to enter the system if both passwords are same.
+
+1. > Let's say you work in Facebook. <br>
+   > You're building the chat functionality. <br>
+   > A user is allowed to view other person's profile picture if it is not locked.<br>
+   > Write a program to check if user profile is locked.<br>
+   > If locked print "Cannot View Picture" otherwise print "Picture"<br>
+   >
+   > Hint: Use a bool for checking if profile is locked
+
+1. > A person has a fever if his temperature is greater than or equal to 99<br>
+   > If a person's temperature is less than 98 then they are weak<br>
+   > Write a program for thermometer to check if a patient with the given temperature <br>
+   > has fever or not.<br>
+   > If has fever then print "FEVER ALERT" otherwise if person is weak print "WEAKNESS DETECTED"<br>
+   > else print "NORMAL"<br>
+   >
+   > Hint: Use a variable for temperature
+
+1. > You're writing code for a water heating machine <br>
+   > You're task is to write the auto turn off feature for the machine. <br>
+   > The machine should turn off if the current temperature is greater than 102 degree celcius. <br>
+   > Print "OFF" if the current temperature exceeds 102 else print "ON"
+
+1. > You're writing a code for authentication system. <br>
+   > The only user allowed in the system is "admin" whose password is "123" <br>
+   > Write code to check if a given username and password is allowed to enter the system<br>
+   > Print "Invalid username and password" if both are wrong.
+   > Print "Invalid username" if username is wrong.
+   > Print "Invalid password" if password is wrong.
+   > Print "Access Granted" if both are correct.
+   >
+   > Hint: Use a variable for username and another variable for password.
+
+1. > You're writing code for marriage website <br>
+   > You're task is to write logic to find a partner for a woman. <br>
+   > The woman wants following requirements :<br>
+   >
+   > 1. Tall
+   > 2. Dark
+   > 3. Handsome
+   > 4. Rich
+   >
+   > Write logic to check these requirements. <br>
+   > If all requirements are fulfilled print "MATCH FOUND"<br>
+   > otherwise print "NO MATCH"<br>
+   >
+   > Hint: Use boolean for tall, dark, handsome and rich
