@@ -4,6 +4,12 @@
 
 ### In all the questions below, you can assume your own inputs.
 
+> Assume you're working for supercell and programming clash of clans.
+> Create a variable to store the town hall level.
+
+> Assume that you have 2 people working under you.
+> Create 2 variables to track the number of tasks completed by these 2 people.
+
 > Program to add 2 numbers and multiply the result of the 2 numbers with the number 10.
 
 > Program to multiply 2 numbers and divide the result with 10.
