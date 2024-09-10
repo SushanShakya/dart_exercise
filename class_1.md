@@ -90,15 +90,3 @@ You can store all your marks.
 <pre>
 List<double> marks = [50, 30.5, 10.5, 100];
 </pre>
-
-## Arithmetic Operations (int and double)
-
-Computers are normally used to manipulate numbers.<br>
-This is done in programming using arithmetic operators:
-
-1. Add (+)
-2. Substract (-)
-3. Multiply (\*)
-4. Divide (/)
-5. Modulus (%)
-6. Integer Division (~/)

@@ -1,98 +1,44 @@
 # Class 2
 
-## Logical Operations (bool)
+## Arithmetic Operations (int and double)
 
-Computers are also used to create a logic to do something.
-Example:
-For a computer game, we may need logic to check whether a player
-goes to the next level or not.
+Computers are normally used to manipulate numbers.<br>
+This is done in programming using arithmetic operators:
 
-The answer to a logic question is always yes or no. In computer world,
-we call them true or false.
+1. Add (+)
+2. Substract (-)
+3. Multiply (\*)
+4. Divide (/)
+5. Modulus (%)
+6. Integer Division (~/)
 
-And which variable do we use when we want to store yes / no ???
-That's right -> bool
+## Arithmetic operation with numbers
 
-Did the person reach next level ? => true / false
-
-Is discount available on this order ? => true / false
-
-Has a person passed his exams ? => true / false
-
-Logical operations are used to ask these questions and we can have
-following logical operators:
-
-1. AND (&&)
-2. OR (||)
-3. NOT (!)
-
-4. (>) (Greater than)
-5. (<) (Less than)
-6. (==) (Equals)
-7. (>=) (Greater than or equals to)
-8. (<=) (Less than or equals to)
-9. (!=) (Not equals)
-
-## Asking yes/no questions and doing things with it's answers
-
-Just knowing the answer whether something is true or not is not enough.
-We need to be able to do something with the logic of it.
-
-This is where we introduce a new statement.
-"if statements".
-
-If some logic is true we might want to do some task otherwise we may want
-to do another task.
-
-For example:
-
-If a person fails their test we might want to let them know they've failed.
+You can do arithmetics with number like you used to do in school.
 
 <pre>
+int a = 2;
+int b = 10;
 
-var failed = score < 32;
-
-if(failed) {
-    print("Sorry son, You cannot go to another level");
-}else {
-    print("Well well, See you at the next level");
-}
-
+print(a + b);
+print(a - b);
+print(a * b);
+print(a / b);
+print(a ~/ b);
+print(a % b);
 </pre>
 
-Likewise we can do multiple checks of logic.
-Best example is when grading a report card.
+## Arithmetic operation with Strings
+
+You can use (+) operator with Strings.
+This is known as String concatenation.
 
 <pre>
+String a = "Hello, ";
+String b = "World";
 
-var obtainedPercentage = 83;
-var isDistinction = obtainedPercentage >= 80;
-var isFirstDivision = obtainedPercentage > 70 && obtainedPercentage < 80;
-var isSecondDivision = obtainedPercentage > 60 && obtainedPercentage < 70;
-
-if(isDistinction) {
-    print("Congratulations son, You're Very Distinct");
-}else if(isFirstDivision) {
-    print("Well well, You're one of the bright students");
-}else if (isSecondDivision) {
-    print("Good job on passing");
-}else {
-    print("Hmmm....");
-}
-
+print(a + b); // String Concatenation
 </pre>
 
-You can also program quarrels between husband and wife.
-
-<pre>
-
-var husbandIsCorrect = true;
-var wifeIsCorrect = false;
-
-if(husbandIsCorrect && wifeIsCorrect) {
-    print("Wife is Correct");
-}else {
-    pring("Husband is dumb");
-}
-
-</pre>
+Repeat the word "Concatenation" multiple time and <br>
+use it everytime to remember the word
