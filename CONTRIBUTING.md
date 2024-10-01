@@ -55,4 +55,23 @@ For Example:
 
 You should only add questions related to if-else statements in this file.
 
+## 3. Add Solutions
+
+For this,<br> You can go to `solutions/` folder and create a folder for solving problems in a file.<br> For example:<br>
+
+If you want to solve some questions for `class_1_hw.md` you should create a folder `solutions/class_1_hw`<br> then, Inside the folder create a file `solutions/class_1_hw/1.dart` and write your solutions there.
+
+The solution should be in following format:
+
+```
+// <Paste-Question-Here>
+//
+
+void main() {
+    <WRITE-PROGRAM-HERE>
+}
+```
+
+Check example for further details.
+
 ### BEST OF LUCK
