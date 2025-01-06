@@ -37,3 +37,68 @@
 1. > Program to print the pattern : 2, 6, 18,... upto n numbers.
 
 1. > Program to print the pattern : 1, 4, 16, ... upto n numbers.
+
+1. > Program to loop forever
+
+1. > Program to process orders such that you stop the loop when you run out of stock. Assume that orders are a list of numbers, stock is a number. For each order you will decrease the stock amount by whatever the value of order is provided. (Use While Loop)
+
+1. > Program to print the pattern:
+
+<pre>
+a
+a a
+a a a
+a a a a
+</pre>
+
+1. > Program to print the pattern: <br>
+
+<pre>
+1
+2 3
+4 5 6
+7 8 9 10
+</pre>
+
+1. > Program to print the pattern: <br>
+
+<pre>
+1
+1 2
+1 2 3
+1 2 3 4
+</pre>
+
+1. > Program to print the pattern: <br>
+
+<pre>
+1
+2 1
+3 2 1
+4 3 2 1
+</pre>
+
+1. > Program to print the pattern: <br>
+
+<pre>
+      *
+    * *
+  * * *
+</pre>
+
+1. > Program to print the pattern: <br>
+
+<pre>
+    1  
+  1 1 1
+1 1 1 1 1
+</pre>
+
+1. > Program to print the pascal's triangle: <br>
+
+<pre>
+    1
+  1 2 1
+ 1 3 3 1
+1 4 6 4 1
+</pre>
